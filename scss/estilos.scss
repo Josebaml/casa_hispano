@@ -1,0 +1,20 @@
+$color_rojo: #9E0420; /*#BD002F*/
+$color_bronce: #FFAF00; /*#cd7f32*/
+.contact_section{
+  background-color: $color_rojo;
+  color: #fffefe;/*fffefd*/
+  h2{
+    text-transform: uppercase;
+    //padding-bottom: 1em;
+  }
+}
+.contact_text{
+  padding: 1.5em 1.5em;
+}
+.contact_details{
+  padding: 0 2em 2em;
+  li{
+    padding: .5em  0;
+    color: #FFAF00;
+  }
+}

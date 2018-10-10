@@ -1,0 +1,16 @@
+Firefox y Chrome:
+	Tamaño general:
+		- Logo
+		- Revisar animación nav principal(Solo en Firefox se ve el retroceso de la animación).
+		- Revisar letra servicios (Revisar letra general textos).
+		- Diriguir correctamente los links de toda la página. la mía debe ir a mi página cuando esté realizada.
+		- PHP para envíar correo.
+		
+	Tamaño móvil:
+		- Revisar ventana modal que aparece, ya que no está centrada.
+
+IE:
+	Tamaño general:
+		- No aparece la ventana modal.
+		- No se ve bien grid layout y flexbox.
+	

@@ -1,1 +1,13 @@
-
+@import url('https://fonts.googleapis.com/css?family=Dosis:300,500');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500|Roboto+Condensed');
+@import "variables.scss";
+/*
+font-family: 'Montserrat', sans-serif;
+font-family: 'Dosis', sans-serif;
+*/
+body{
+  font-family: 'Dosis', sans-serif;
+  font-weight: 300;
+  font-size: 1.188em;
+  letter-spacing: 1.5px;
+}
